@@ -1,0 +1,5 @@
+Sample_ID;Samples;Well;Information;date;pH;TH;TAC;COT;CODB;CYTO
+B8;B8;3B_8;Saint_Maur_Biofilm_8mois;19/12/2023;;;;;;8130000
+B11;B11;3B_11;Saint_Maur_Biofilm_11mois;05/03/2024;;;;;;81200
+W8;W8;3W_8;Saint_Maur_Water_8mois;19/12/2023;7,6;22;17;2,8;0,3;64886
+W11;W11;3W_11;Saint_Maur_Water_11mois;05/03/2024;8;24;23;1,6;0,1;31043
